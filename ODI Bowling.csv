@@ -1,0 +1,417 @@
+country,player,matches,innings,overs,maidens,runs,wickets,best_bowling_innings,average,economy,strike_rate,four_fers,fi_fers
+Australia,SA Abbott,2,2,15.0,0,109,2,1/25,54.50,7.26,45.0,0,0
+Australia,AC Agar,14,14,119.0,3,663,12,2/44,55.25,5.57,59.5,0,0
+Australia,PJ Cummins,69,69,608.3,38,3195,111,5/70,28.78,5.25,32.8,5,1
+Australia,AJ Finch,132,21,47.2,0,259,4,1/2,64.75,5.47,71.0,0,0
+Australia,JR Hazlewood,54,53,480.5,33,2304,88,6/52,26.18,4.79,32.7,1,3
+Australia,MC Henriques,13,12,67.0,1,347,8,3/32,43.37,5.17,50.2,0,0
+Australia,M Labuschagne,13,3,4.0,0,36,0,-,-,9.00,-,0,0
+Australia,MR Marsh,60,57,324.5,8,1803,49,5/33,36.79,5.55,39.7,1,1
+Australia,GJ Maxwell,116,91,473.2,9,2683,51,4/46,52.60,5.66,55.6,2,0
+Australia,TD Paine,35,-,-,-,-,-,-,-,-,-,-,-
+Australia,JA Richardson,13,13,118.0,11,690,24,4/26,28.75,5.84,29.5,1,0
+Australia,KW Richardson,25,25,218.4,11,1240,39,5/68,31.79,5.67,33.6,0,1
+Australia,DJM Short,8,5,15.0,0,114,0,-,-,7.60,-,0,0
+Australia,SPD Smith,128,40,179.2,1,971,28,3/16,34.67,5.41,38.4,0,0
+Australia,MP Stoinis,45,42,246.0,2,1506,33,3/16,45.63,6.12,44.7,0,0
+Australia,MS Wade,94,-,-,-,-,-,-,-,-,-,-,-
+Australia,DA Warner,128,1,1.0,0,8,0,-,-,8.00,-,0,0
+Australia,PSP Handscomb,22,-,-,-,-,-,-,-,-,-,-,-
+Australia,TM Head,42,26,127.3,0,737,12,2/22,61.41,5.78,63.7,0,0
+Australia,NM Lyon,29,29,271.0,11,1334,29,4/44,46.00,4.92,56.0,1,0
+Australia,SE Marsh,73,-,-,-,-,-,-,-,-,-,-,-
+Australia,PM Siddle,20,19,150.1,10,743,17,3/55,43.70,4.94,53.0,0,0
+Australia,MA Starc,96,96,822.4,40,4262,184,6/28,23.16,5.18,26.8,11,7
+Australia,AT Carey,42,-,-,-,-,-,-,-,-,-,-,-
+Australia,NM Coulter-Nile,32,32,279.4,10,1555,52,4/48,29.90,5.56,32.2,1,0
+Australia,C Green,1,1,4.0,0,27,0,-,-,6.75,-,0,0
+Australia,UT Khawaja,40,-,-,-,-,-,-,-,-,-,-,-
+Australia,B Stanlake,7,7,59.0,3,324,7,3/35,46.28,5.49,50.5,0,0
+Australia,AJ Turner,6,-,-,-,-,-,-,-,-,-,-,-
+Australia,CA Lynn,4,-,-,-,-,-,-,-,-,-,-,-
+Australia,JL Pattinson,15,15,121.1,6,681,16,4/51,42.56,5.62,45.4,1,0
+Australia,A Zampa,61,61,541.2,5,3004,92,4/43,32.65,5.54,35.3,3,0
+Bangladesh,Abu Jayed,2,2,18.0,0,114,5,5/58,22.80,6.33,21.6,0,1
+Bangladesh,Afif Hossain,1,1,2.0,0,12,1,1/12,12.00,6.00,12.0,0,0
+Bangladesh,Liton Das,42,-,-,-,-,-,-,-,-,-,-,-
+Bangladesh,Mahedi Hasan,3,3,23.0,1,105,2,2/42,52.50,4.56,69.0,0,0
+Bangladesh,Mehidy Hasan Miraz,47,46,392.5,14,1767,47,4/25,37.59,4.49,50.1,2,0
+Bangladesh,Mohammad Mithun,30,1,2.0,0,12,0,-,-,6.00,-,0,0
+Bangladesh,Mohammad Saifuddin,24,24,181.5,7,1066,34,4/41,31.35,5.86,32.0,1,0
+Bangladesh,Mominul Haque,28,12,39.0,1,190,7,2/13,27.14,4.87,33.4,0,0
+Bangladesh,Mushfiqur Rahim,224,-,-,-,-,-,-,-,-,-,-,-
+Bangladesh,Mustafizur Rahman,64,63,523.2,25,2746,118,6/43,23.27,5.24,26.6,3,5
+Bangladesh,Najmul Hossain Shanto,8,1,1.0,0,4,0,-,-,4.00,-,0,0
+Bangladesh,Shakib Al Hasan,209,206,1775.0,85,7907,266,5/29,29.72,4.45,40.0,9,2
+Bangladesh,Taijul Islam,9,9,85.0,7,337,12,4/11,28.08,3.96,42.5,1,0
+Bangladesh,Tamim Iqbal,213,2,1.0,0,13,0,-,-,13.00,-,0,0
+Bangladesh,Abdur Razzak,153,152,1327.3,70,6065,207,5/29,29.29,4.56,38.4,5,4
+Bangladesh,Ariful Haque,1,1,3.0,0,17,0,-,-,5.66,-,0,0
+Bangladesh,Mosaddek Hossain,35,33,150.2,1,787,14,3/13,56.21,5.23,64.4,0,0
+Bangladesh,Nurul Hasan,2,-,-,-,-,-,-,-,-,-,-,-
+Bangladesh,Rubel Hossain,104,102,779.4,29,4427,129,6/26,34.31,5.67,36.2,7,1
+Bangladesh,Soumya Sarkar,61,18,66.4,0,389,11,3/56,35.36,5.83,36.3,0,0
+Bangladesh,Abu Hider,2,2,18.0,2,89,3,2/50,29.66,4.94,36.0,0,0
+Bangladesh,Al-Amin Hossain,15,15,110.3,7,608,22,4/51,27.63,5.50,30.1,2,0
+Bangladesh,Anamul Haque,38,-,-,-,-,-,-,-,-,-,-,-
+Bangladesh,Fazle Mahmud,2,1,3.0,0,16,0,-,-,5.33,-,0,0
+Bangladesh,Hasan Mahmud,3,3,19.2,1,131,5,3/28,26.20,6.77,23.2,0,0
+Bangladesh,Mashrafe Mortaza,220,220,1820.2,123,8893,270,6/26,32.93,4.88,40.4,7,1
+Bangladesh,Mohammad Naim,1,-,-,-,-,-,-,-,-,-,-,-
+Bangladesh,Nazmul Islam,5,5,44.0,0,224,5,2/38,44.80,5.09,52.8,0,0
+Bangladesh,Shafiul Islam,60,60,423.2,26,2529,70,4/21,36.12,5.97,36.2,4,0
+Bangladesh,Mahmudullah,194,137,690.4,14,3572,76,3/4,47.00,5.17,54.5,0,0
+Bangladesh,Sabbir Rahman,66,21,51.0,0,345,3,1/12,115.00,6.76,102.0,0,0
+England,MM Ali,109,103,840.4,10,4419,86,4/46,51.38,5.25,58.6,1,0
+England,JM Anderson,194,191,1597.2,125,7861,269,5/23,29.22,4.92,35.6,11,2
+England,JM Bairstow,86,-,-,-,-,-,-,-,-,-,-,-
+England,SCJ Broad,121,121,1018.1,56,5364,178,5/23,30.13,5.26,34.3,9,1
+England,SM Curran,8,8,50.0,1,307,7,3/35,43.85,6.14,42.8,0,0
+England,JL Denly,16,4,17.0,0,101,1,1/24,101.00,5.94,102.0,0,0
+England,BT Foakes,1,-,-,-,-,-,-,-,-,-,-,-
+England,DJ Malan,3,-,-,-,-,-,-,-,-,-,-,-
+England,EJG Morgan,243,-,-,-,-,-,-,-,-,-,-,-
+England,AU Rashid,109,103,904.5,10,5121,158,5/27,32.41,5.65,34.3,7,2
+England,JE Root,149,68,258.4,2,1491,26,3/52,57.34,5.76,59.6,0,0
+England,BA Stokes,98,83,505.2,8,3041,74,5/61,41.09,6.01,40.9,1,1
+England,RJW Topley,13,13,103.3,7,557,20,4/50,27.85,5.38,31.0,1,0
+England,CR Woakes,104,100,816.0,41,4521,149,6/45,30.34,5.54,32.8,9,3
+England,JC Buttler,148,-,-,-,-,-,-,-,-,-,-,-
+England,C Overton,1,1,7.0,0,55,0,-,-,7.85,-,0,0
+England,JJ Roy,96,-,-,-,-,-,-,-,-,-,-,-
+England,OP Stone,4,3,16.0,0,97,1,1/23,97.00,6.06,96.0,0,0
+England,JM Vince,16,2,7.0,0,38,1,1/18,38.00,5.42,42.0,0,0
+England,JC Archer,17,17,151.5,12,720,30,3/27,24.00,4.74,30.3,0,0
+England,JT Ball,18,18,157.5,5,980,21,5/51,46.66,6.20,45.0,0,1
+England,T Banton,6,-,-,-,-,-,-,-,-,-,-,-
+England,LA Dawson,3,2,14.0,0,96,3,2/70,32.00,6.85,28.0,0,0
+England,AD Hales,70,-,-,-,-,-,-,-,-,-,-,-
+England,CJ Jordan,34,34,269.4,5,1611,45,5/29,35.80,5.97,35.9,0,1
+England,S Mahmood,4,4,32.5,2,156,5,2/36,31.20,4.75,39.4,0,0
+England,MW Parkinson,2,2,10.4,0,63,0,-,-,5.90,-,0,0
+England,LE Plunkett,89,87,689.3,14,4010,135,5/52,29.70,5.81,30.6,6,1
+England,DJ Willey,49,48,357.1,21,2037,60,5/30,33.95,5.70,35.7,2,1
+England,TK Curran,26,26,198.0,8,1212,30,5/35,40.40,6.12,39.6,1,1
+England,BM Duckett,3,-,-,-,-,-,-,-,-,-,-,-
+England,MA Wood,55,54,466.5,16,2588,69,4/33,37.50,5.54,40.5,2,0
+India,MA Agarwal,5,1,1.0,0,10,0,-,-,10.00,-,0,0
+India,R Ashwin,111,109,1003.3,35,4937,150,4/25,32.91,4.91,40.1,1,0
+India,YS Chahal,54,53,482.1,13,2511,92,6/42,27.29,5.20,31.4,2,2
+India,SS Iyer,22,2,2.0,0,15,0,-,-,7.50,-,0,0
+India,V Kohli,254,48,106.5,1,665,4,1/15,166.25,6.22,160.2,0,0
+India,Kuldeep Yadav,63,61,561.0,12,2930,105,6/25,27.90,5.22,32.0,4,1
+India,Mohammed Siraj,1,1,10.0,0,76,0,-,-,7.60,-,0,0
+India,HH Pandya,60,55,407.4,5,2267,55,3/31,41.21,5.56,44.4,0,0
+India,KH Pandya,3,3,20.0,0,160,1,1/59,160.00,8.00,120.0,0,0
+India,AR Patel,38,35,318.0,13,1409,45,3/34,31.31,4.43,42.4,0,0
+India,M Prasidh Krishna,3,3,25.1,1,174,6,4/54,29.00,6.91,25.1,1,0
+India,AM Rahane,90,-,-,-,-,-,-,-,-,-,-,-
+India,KL Rahul,38,-,-,-,-,-,-,-,-,-,-,-
+India,I Sharma,80,78,622.1,29,3563,115,4/34,30.98,5.72,32.4,6,0
+India,RG Sharma,227,38,98.5,2,515,8,2/27,64.37,5.21,74.1,0,0
+India,SN Thakur,15,15,120.3,2,818,22,4/52,37.18,6.78,32.8,2,0
+India,Washington Sundar,1,1,10.0,0,65,1,1/65,65.00,6.50,60.0,0,0
+India,S Dhawan,142,-,-,-,-,-,-,-,-,-,-,-
+India,RA Jadeja,168,164,1426.1,50,7024,188,5/36,37.36,4.92,45.5,7,1
+India,RR Pant,18,-,-,-,-,-,-,-,-,-,-,-
+India,PA Patel,38,-,-,-,-,-,-,-,-,-,-,-
+India,CA Pujara,5,-,-,-,-,-,-,-,-,-,-,-
+India,WP Saha,9,-,-,-,-,-,-,-,-,-,-,-
+India,Shubman Gill,3,-,-,-,-,-,-,-,-,-,-,-
+India,M Vijay,17,2,6.0,0,37,1,1/19,37.00,6.16,36.0,0,0
+India,KK Ahmed,11,11,80.0,2,465,15,3/13,31.00,5.81,32.0,0,0
+India,DL Chahar,3,3,21.0,2,129,2,1/37,64.50,6.14,63.0,0,0
+India,MS Dhoni,350,2,6.0,0,31,1,1/14,31.00,5.16,36.0,0,0
+India,S Dube,1,1,7.5,0,68,0,-,-,8.68,-,0,0
+India,KM Jadhav,73,42,197.5,1,1020,27,3/23,37.77,5.15,43.9,0,0
+India,Mohammed Shami,79,78,674.0,39,3793,148,5/69,25.62,5.62,27.3,9,1
+India,T Natarajan,2,2,20.0,1,143,3,2/70,47.66,7.15,40.0,0,0
+India,NA Saini,7,7,65.0,0,454,6,2/58,75.66,6.98,65.0,0,0
+India,V Shankar,12,9,38.5,0,210,4,2/15,52.50,5.40,58.2,0,0
+India,PP Shaw,3,-,-,-,-,-,-,-,-,-,-,-
+India,JJ Bumrah,67,67,587.1,39,2736,108,5/27,25.33,4.65,32.6,5,1
+India,S Kaul,3,3,27.0,0,179,0,-,-,6.62,-,0,0
+India,B Kumar,117,116,937.3,68,4703,138,5/42,34.07,5.01,40.7,4,1
+India,MK Pandey,26,-,-,-,-,-,-,-,-,-,-,-
+India,UT Yadav,75,73,593.0,23,3565,106,4/31,33.63,6.01,33.5,4,0
+New Zealand,TD Astle,9,8,45.0,1,246,10,3/33,24.60,5.46,27.0,0,0
+New Zealand,TA Blundell,2,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,TA Boult,93,93,852.5,59,4261,169,7/34,25.21,4.99,30.2,8,5
+New Zealand,DP Conway,3,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,C de Grandhomme,42,42,243.0,9,1180,27,3/26,43.70,4.85,54.0,0,0
+New Zealand,LH Ferguson,37,37,326.0,6,1779,69,5/45,25.78,5.45,28.3,2,1
+New Zealand,MJ Guptill,186,11,18.1,0,98,4,2/6,24.50,5.39,27.2,0,0
+New Zealand,KA Jamieson,5,5,46.0,4,186,5,2/42,37.20,4.04,55.2,0,0
+New Zealand,SC Kuggeleijn,2,2,14.0,2,58,5,3/41,11.60,4.14,16.8,0,0
+New Zealand,AF Milne,40,39,300.1,7,1581,41,3/49,38.56,5.26,43.9,0,0
+New Zealand,DJ Mitchell,3,2,5.0,0,33,0,-,-,6.60,-,0,0
+New Zealand,HM Nicholls,52,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,TL Seifert,3,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,IS Sodhi,33,32,270.0,9,1508,43,4/58,35.06,5.58,37.6,1,0
+New Zealand,LRPL Taylor,233,4,7.0,0,35,0,-,-,5.00,-,0,0
+New Zealand,BJ Watling,28,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,KS Williamson,151,65,244.3,2,1310,37,4/22,35.40,5.35,39.6,1,0
+New Zealand,DAJ Bracewell,19,19,155.2,15,798,23,4/55,34.69,5.13,40.5,1,0
+New Zealand,NT Broom,39,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,MJ Henry,55,53,479.3,33,2538,98,5/30,25.89,5.29,29.3,8,2
+New Zealand,BB McCullum,260,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,MJ Santner,75,70,564.1,12,2742,75,5/50,36.56,4.86,45.1,0,1
+New Zealand,TG Southee,143,141,1199.1,74,6558,190,7/33,34.51,5.46,37.8,4,3
+New Zealand,CJ Anderson,49,43,247.3,10,1502,60,5/63,25.03,6.06,24.7,2,1
+New Zealand,MS Chapman,6,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,JDS Neesham,66,62,352.3,6,2139,68,5/27,31.45,6.06,31.1,2,2
+New Zealand,GH Worker,10,1,1.0,0,5,0,-,-,5.00,-,0,0
+New Zealand,C Munro,57,25,92.0,1,481,7,2/10,68.71,5.22,78.8,0,0
+New Zealand,HD Rutherford,4,-,-,-,-,-,-,-,-,-,-,-
+New Zealand,WA Young,2,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Abid Ali,6,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Azhar Ali,53,14,43.0,0,260,4,2/26,65.00,6.04,64.5,0,0
+Pakistan,Babar Azam,80,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Faheem Ashraf,28,27,190.2,8,948,23,5/22,41.21,4.98,49.6,0,1
+Pakistan,Fakhar Zaman,50,7,22.3,0,111,1,1/19,111.00,4.93,135.0,0,0
+Pakistan,Haider Ali,2,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Haris Rauf,5,5,46.0,2,259,8,3/54,32.37,5.63,34.5,0,0
+Pakistan,Hussain Talat,1,1,2.0,0,16,0,-,-,8.00,-,0,0
+Pakistan,Iftikhar Ahmed,7,6,43.0,4,201,6,5/40,33.50,4.67,43.0,0,1
+Pakistan,Khushdil Shah,1,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Mohammad Hasnain,8,8,71.0,5,455,12,5/26,37.91,6.40,35.5,0,1
+Pakistan,Mohammad Nawaz,16,16,123.3,2,641,20,4/42,32.05,5.19,37.0,1,0
+Pakistan,Shadab Khan,45,43,365.0,7,1859,59,4/28,31.50,5.09,37.1,3,0
+Pakistan,Shaheen Shah Afridi,25,24,213.3,11,1168,51,6/35,22.90,5.47,25.1,4,2
+Pakistan,Usman Qadir,1,1,9.0,0,48,1,1/48,48.00,5.33,54.0,0,0
+Pakistan,Asad Shafiq,60,2,2.0,0,18,0,-,-,9.00,-,0,0
+Pakistan,Bilal Asif,3,3,22.0,1,96,5,5/25,19.20,4.36,26.4,0,1
+Pakistan,Fawad Alam,38,13,66.2,0,377,5,1/8,75.40,5.68,79.6,0,0
+Pakistan,Hasan Ali,54,52,434.4,14,2457,83,5/34,29.60,5.65,31.4,1,3
+Pakistan,Mohammad Amir,61,60,502.1,34,2400,81,5/30,29.62,4.77,37.1,1,1
+Pakistan,Mohammad Hafeez,218,177,1288.5,48,5400,139,4/41,38.84,4.18,55.6,1,0
+Pakistan,Muhammad Musa,2,2,16.1,1,101,2,2/21,50.50,6.24,48.5,0,0
+Pakistan,Sarfaraz Ahmed,117,1,2.0,0,15,0,-,-,7.50,-,0,0
+Pakistan,Shan Masood,5,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Usman Shinwari,17,17,128.0,8,633,34,5/34,18.61,4.94,22.5,3,2
+Pakistan,Yasir Shah,25,24,215.3,4,1150,24,6/26,47.91,5.33,53.8,1,1
+Pakistan,Asif Ali,20,1,0.5,0,9,0,-,-,10.80,-,0,0
+Pakistan,Danish Aziz,2,2,5.0,0,27,0,-,-,5.40,-,0,0
+Pakistan,Imam-ul-Haq,43,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Junaid Khan,76,76,600.1,33,3216,110,4/12,29.23,5.35,32.7,4,0
+Pakistan,Mohammad Rizwan,38,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Shoaib Malik,287,217,1326.2,38,6192,158,4/19,39.18,4.66,50.3,1,0
+Pakistan,Wahab Riaz,91,90,721.1,20,4117,120,5/46,34.30,5.70,36.0,5,1
+Pakistan,Haris Sohail,42,21,107.0,0,613,11,3/45,55.72,5.72,58.3,0,0
+Pakistan,Sharjeel Khan,25,-,-,-,-,-,-,-,-,-,-,-
+Pakistan,Imad Wasim,55,53,400.3,8,1957,44,5/14,44.47,4.88,54.6,0,1
+South Africa,T Bavuma,9,-,-,-,-,-,-,-,-,-,-,-
+South Africa,CJ Dala,2,2,17.0,0,121,1,1/57,121.00,7.11,102.0,0,0
+South Africa,DM Dupavillon,2,2,11.0,0,51,1,1/21,51.00,4.63,66.0,0,0
+South Africa,BC Fortuin,1,-,-,-,-,-,-,-,-,-,-,-
+South Africa,RR Hendricks,21,3,7.0,0,47,1,1/13,47.00,6.71,42.0,0,0
+South Africa,H Klaasen,20,1,3.0,0,19,0,-,-,6.33,-,0,0
+South Africa,JN Malan,4,-,-,-,-,-,-,-,-,-,-,-
+South Africa,AK Markram,29,8,34.0,0,196,5,2/18,39.20,5.76,40.8,0,0
+South Africa,PWA Mulder,10,10,53.0,0,308,8,2/59,38.50,5.81,39.7,0,0
+South Africa,L Ngidi,28,28,224.0,16,1271,54,6/58,23.53,5.67,24.8,2,1
+South Africa,AL Phehlukwayo,61,58,407.1,15,2311,74,4/22,31.22,5.67,33.0,3,0
+South Africa,D Pretorius,22,22,170.2,9,813,29,3/5,28.03,4.77,35.2,0,0
+South Africa,T Shamsi,24,23,203.3,4,1104,27,4/33,40.88,5.42,45.2,1,0
+South Africa,L Sipamla,5,4,30.2,1,172,2,1/40,86.00,5.67,91.0,0,0
+South Africa,HE van der Dussen,23,-,-,-,-,-,-,-,-,-,-,-
+South Africa,K Verreynne,4,-,-,-,-,-,-,-,-,-,-,-
+South Africa,HM Amla,181,-,-,-,-,-,-,-,-,-,-,-
+South Africa,Q de Kock,123,-,-,-,-,-,-,-,-,-,-,-
+South Africa,AB de Villiers,228,9,32.0,0,202,7,2/15,28.85,6.31,27.4,0,0
+South Africa,D Elgar,8,4,16.0,1,67,2,1/11,33.50,4.18,48.0,0,0
+South Africa,BE Hendricks,8,6,46.0,1,249,5,3/59,49.80,5.41,55.2,0,0
+South Africa,KA Maharaj,8,8,71.1,1,357,10,3/25,35.70,5.01,42.7,0,0
+South Africa,M Morkel,117,114,960.0,47,4761,188,5/21,25.32,4.95,30.6,7,2
+South Africa,D Olivier,2,2,19.0,0,124,3,2/73,41.33,6.52,38.0,0,0
+South Africa,D Paterson,4,4,34.5,1,217,4,3/44,54.25,6.22,52.2,0,0
+South Africa,VD Philander,30,28,213.1,20,986,41,4/12,24.04,4.62,31.1,2,0
+South Africa,K Rabada,77,75,660.2,45,3293,119,6/16,27.67,4.98,33.2,6,1
+South Africa,DW Steyn,125,124,1042.4,71,5087,196,6/39,25.95,4.87,31.9,4,3
+South Africa,JP Duminy,199,135,585.3,9,3143,69,4/16,45.55,5.36,50.9,1,0
+South Africa,Imran Tahir,107,104,923.3,38,4297,173,7/45,24.83,4.65,32.0,7,3
+South Africa,CH Morris,42,40,315.4,10,1756,48,4/31,36.58,5.56,39.4,2,0
+South Africa,A Nortje,9,9,75.4,2,397,21,4/51,18.90,5.24,21.6,1,0
+South Africa,F du Plessis,143,11,32.0,0,189,2,1/8,94.50,5.90,96.0,0,0
+South Africa,C Jonker,2,-,-,-,-,-,-,-,-,-,-,-
+South Africa,DA Miller,134,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,KNA Bandara,3,1,1.0,0,8,0,-,-,8.00,-,0,0
+Sri Lanka,M Bhanuka,1,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,LD Chandimal,149,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,A Dananjaya,36,34,295.3,5,1506,51,6/29,29.52,5.09,34.7,2,2
+Sri Lanka,PWH de Silva,18,18,127.1,4,670,18,3/15,37.22,5.26,42.3,0,0
+Sri Lanka,N Dickwella,52,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,AM Fernando,2,2,10.0,0,84,0,-,-,8.40,-,0,0
+Sri Lanka,N Pradeep,47,45,370.5,19,2211,59,4/31,37.47,5.96,37.7,2,0
+Sri Lanka,MVT Fernando,8,8,49.3,4,337,5,1/35,67.40,6.80,59.4,0,0
+Sri Lanka,MD Gunathilaka,41,21,65.0,1,366,7,3/48,52.28,5.63,55.7,0,0
+Sri Lanka,FDM Karunaratne,34,2,2.4,0,18,0,-,-,6.75,-,0,0
+Sri Lanka,CBRLS Kumara,13,13,90.4,0,623,13,2/26,47.92,6.87,41.8,0,0
+Sri Lanka,AD Mathews,218,158,865.1,54,4003,120,6/20,33.35,4.62,43.2,2,1
+Sri Lanka,BKG Mendis,76,2,3.2,0,28,0,-,-,8.40,-,0,0
+Sri Lanka,P Nissanka,3,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,MDKJ Perera,101,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,NLTC Perera,166,157,983.2,28,5740,175,6/44,32.80,5.83,33.7,5,4
+Sri Lanka,PADLR Sandakan,27,26,209.2,3,1306,21,4/52,62.19,6.23,59.8,1,0
+Sri Lanka,MD Shanaka,23,12,47.0,0,274,10,5/43,27.40,5.82,28.2,0,1
+Sri Lanka,PVD Chameera,25,25,169.1,7,902,21,3/20,42.95,5.33,48.3,0,0
+Sri Lanka,DM de Silva,45,37,179.2,1,928,22,3/32,42.18,5.17,48.9,0,0
+Sri Lanka,BOP Fernando,7,1,2.0,0,16,0,-,-,8.00,-,0,0
+Sri Lanka,RAS Lakmal,86,84,646.5,36,3534,109,4/13,32.42,5.46,35.6,3,0
+Sri Lanka,MDK Perera,13,10,76.0,2,409,13,3/48,31.46,5.38,35.0,0,0
+Sri Lanka,CAK Rajitha,9,9,58.5,0,379,9,2/17,42.11,6.44,39.2,0,0
+Sri Lanka,WIA Fernando,18,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,GSNFG Jayasuriya,12,11,52.0,1,277,3,1/15,92.33,5.32,104.0,0,0
+Sri Lanka,SL Malinga,226,220,1822.4,103,9760,338,6/38,28.87,5.35,32.3,11,8
+Sri Lanka,PHKD Mendis,3,3,17.0,0,100,1,1/45,100.00,5.88,102.0,0,0
+Sri Lanka,AK Perera,6,3,6.0,0,33,0,-,-,5.50,-,0,0
+Sri Lanka,S Samarawickrama,7,-,-,-,-,-,-,-,-,-,-,-
+Sri Lanka,HDRL Thirimanne,127,4,17.2,0,94,3,2/36,31.33,5.42,34.6,0,0
+Sri Lanka,LD Madushanka,4,4,24.0,0,172,4,2/70,43.00,7.16,36.0,0,0
+Sri Lanka,I Udana,18,18,130.3,1,810,16,3/82,50.62,6.20,48.9,0,0
+Sri Lanka,MA Aponso,9,9,70.3,1,377,10,4/18,37.70,5.34,42.3,1,0
+Sri Lanka,JDF Vandersay,12,11,81.5,2,480,11,3/50,43.63,5.86,44.6,0,0
+West Indies,FA Allen,17,15,91.0,0,521,5,2/40,104.20,5.72,109.2,0,0
+West Indies,J Blackwood,2,1,3.0,0,16,0,-,-,5.33,-,0,0
+West Indies,KC Brathwaite,10,5,25.2,0,140,1,1/56,140.00,5.52,152.0,0,0
+West Indies,DJ Bravo,164,150,1085.1,38,5874,199,6/43,29.51,5.41,32.7,6,1
+West Indies,JD Campbell,6,1,1.0,0,13,0,-,-,13.00,-,0,0
+West Indies,FH Edwards,50,49,356.2,23,1812,60,6/22,30.20,5.08,35.6,0,2
+West Indies,ST Gabriel,25,25,191.2,6,1134,33,3/17,34.36,5.92,34.7,0,0
+West Indies,JO Holder,118,114,916.1,49,5106,139,5/27,36.73,5.57,39.5,4,2
+West Indies,SD Hope,81,-,-,-,-,-,-,-,-,-,-,-
+West Indies,AS Joseph,34,33,290.1,12,1621,54,5/56,30.01,5.58,32.2,4,1
+West Indies,E Lewis,54,-,-,-,-,-,-,-,-,-,-,-
+West Indies,KR Mayers,3,2,9.0,0,49,1,1/34,49.00,5.44,54.0,0,0
+West Indies,JN Mohammed,34,14,66.2,2,303,8,3/47,37.87,4.56,49.7,0,0
+West Indies,A Phillip,1,1,6.0,0,43,0,-,-,7.16,-,0,0
+West Indies,KA Pollard,116,79,373.4,4,2137,54,3/27,39.57,5.71,41.5,0,0
+West Indies,R Powell,37,13,40.5,0,243,3,1/7,81.00,5.95,81.6,0,0
+West Indies,KAJ Roach,92,90,743.1,53,3763,124,6/27,30.34,5.06,35.9,3,3
+West Indies,LMP Simmons,68,12,26.0,0,172,1,1/3,172.00,6.61,156.0,0,0
+West Indies,SW Ambris,16,-,-,-,-,-,-,-,-,-,-,-
+West Indies,D Bishoo,42,40,337.0,8,1668,38,3/30,43.89,4.94,53.2,0,0
+West Indies,NE Bonner,3,1,2.5,0,15,0,-,-,5.29,-,0,0
+West Indies,ML Cummins,11,9,75.0,3,474,9,3/82,52.66,6.32,50.0,0,0
+West Indies,SO Dowrich,1,-,-,-,-,-,-,-,-,-,-,-
+West Indies,SO Hetmyer,45,-,-,-,-,-,-,-,-,-,-,-
+West Indies,CK Holder,1,1,3.0,0,26,0,-,-,8.66,-,0,0
+West Indies,KA Hope,7,-,-,-,-,-,-,-,-,-,-,-
+West Indies,KMA Paul,19,19,145.4,3,881,23,3/44,38.30,6.04,38.0,0,0
+West Indies,KOA Powell,46,-,-,-,-,-,-,-,-,-,-,-
+West Indies,DS Smith,47,2,2.5,0,17,0,-,-,6.00,-,0,0
+West Indies,DM Bravo,116,-,-,-,-,-,-,-,-,-,-,-
+West Indies,RL Chase,30,23,148.5,3,719,15,3/30,47.93,4.83,59.5,0,0
+West Indies,J Da Silva,2,-,-,-,-,-,-,-,-,-,-,-
+West Indies,JN Hamilton,1,-,-,-,-,-,-,-,-,-,-,-
+West Indies,AJ Hosein,6,6,51.2,1,214,8,3/26,26.75,4.16,38.5,0,0
+West Indies,AM McCarthy,2,1,2.0,0,10,0,-,-,5.00,-,0,0
+West Indies,KY Ottley,2,-,-,-,-,-,-,-,-,-,-,-
+West Indies,K Pierre,3,3,26.0,0,158,1,1/50,158.00,6.07,156.0,0,0
+West Indies,N Pooran,28,-,-,-,-,-,-,-,-,-,-,-
+West Indies,R Shepherd,7,7,46.2,3,241,4,2/32,60.25,5.20,69.5,0,0
+West Indies,O Thomas,20,19,128.3,1,866,27,5/21,32.07,6.73,28.5,1,1
+West Indies,CR Brathwaite,44,40,304.1,11,1766,43,5/27,41.06,5.80,42.4,2,1
+West Indies,SS Cottrell,35,33,268.0,10,1577,49,5/46,32.18,5.88,32.8,2,1
+West Indies,ADS Fletcher,25,3,4.4,0,26,0,-,-,5.57,-,0,0
+West Indies,CH Gayle,301,199,1237.2,38,5926,167,5/46,35.48,4.78,44.4,3,1
+West Indies,OC McCoy,2,2,14.0,0,109,4,2/38,27.25,7.78,21.0,0,0
+West Indies,SP Narine,65,65,590.0,35,2435,92,6/27,26.46,4.12,38.4,4,2
+West Indies,D Ramdin,139,-,-,-,-,-,-,-,-,-,-,-
+West Indies,AD Russell,56,55,381.4,14,2229,70,4/35,31.84,5.84,32.7,5,0
+West Indies,HR Walsh,10,10,62.4,0,331,12,4/36,27.58,5.28,31.3,1,0
+Zimbabwe,RP Burl,18,10,35.0,1,207,7,4/32,29.57,5.91,30.0,1,0
+Zimbabwe,RW Chakabva,41,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,TL Chatara,70,70,571.5,45,2905,95,4/33,30.57,5.08,36.1,1,0
+Zimbabwe,CJ Chibhabha,107,59,279.5,12,1631,35,4/25,46.60,5.82,47.9,1,0
+Zimbabwe,TS Chisoro,21,19,150.0,7,684,24,3/16,28.50,4.56,37.5,0,0
+Zimbabwe,CR Ervine,96,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,LM Jongwe,22,22,143.5,11,759,25,5/6,30.36,5.27,34.5,0,1
+Zimbabwe,R Kaia,1,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,W Madhevere,6,5,29.2,0,160,2,1/38,80.00,5.45,88.0,0,0
+Zimbabwe,WP Masakadza,17,16,143.1,8,734,21,4/21,34.95,5.12,40.9,1,0
+Zimbabwe,PS Masvaure,2,1,3.0,0,19,0,-,-,6.33,-,0,0
+Zimbabwe,CB Mpofu,84,83,660.0,41,3581,93,6/52,38.50,5.42,42.5,2,1
+Zimbabwe,CT Mumba,7,7,45.2,0,326,7,3/69,46.57,7.19,38.8,0,0
+Zimbabwe,R Mutumbami,36,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,B Muzarabani,21,21,158.0,5,869,25,5/49,34.76,5.50,37.9,1,1
+Zimbabwe,BRM Taylor,199,21,66.0,0,406,9,3/54,45.11,6.15,44.0,0,0
+Zimbabwe,DT Tiripano,35,33,233.2,12,1337,33,5/63,40.51,5.73,42.4,0,1
+Zimbabwe,KM Jarvis,49,49,393.4,23,2088,58,4/17,36.00,5.30,40.7,2,0
+Zimbabwe,H Masakadza,209,85,307.2,5,1636,39,3/39,41.94,5.32,47.2,0,0
+Zimbabwe,PJ Moor,49,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,TK Musakanda,15,1,2.0,0,11,0,-,-,5.50,-,0,0
+Zimbabwe,CT Mutombodzi,14,11,61.5,0,359,7,2/33,51.28,5.80,53.0,0,0
+Zimbabwe,A Ndlovu,2,2,17.0,0,80,1,1/29,80.00,4.70,102.0,0,0
+Zimbabwe,R Ngarava,12,12,85.5,2,545,10,2/37,54.50,6.34,51.5,0,0
+Zimbabwe,Sikandar Raza,103,77,525.2,21,2558,61,3/21,41.93,4.86,51.6,0,0
+Zimbabwe,CK Tshuma,2,2,11.0,1,83,1,1/35,83.00,7.54,66.0,0,0
+Zimbabwe,TS Kamunhukamwe,6,-,-,-,-,-,-,-,-,-,-,-
+Zimbabwe,SF Mire,47,19,84.3,1,515,12,4/43,42.91,6.09,42.2,1,0
+Zimbabwe,SC Williams,136,111,708.0,31,3449,72,4/43,47.90,4.87,59.0,1,0
+Zimbabwe,E Chigumbura,213,132,723.1,23,4274,101,4/28,42.31,5.91,42.9,1,0
+Afghanistan,Amir Hamza,31,31,258.4,22,1016,40,4/17,25.40,3.92,38.8,1,0
+Afghanistan,Asghar Afghan,114,7,23.1,1,91,3,1/1,30.33,3.92,46.3,0,0
+Afghanistan,Fareed Ahmad,5,4,25.0,0,143,5,3/65,28.60,5.72,30.0,0,0
+Afghanistan,Hashmatullah Shahidi,41,2,3.0,0,25,0,-,-,8.33,-,0,0
+Afghanistan,Ibrahim Zadran,1,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Karim Janat,1,1,4.0,0,31,0,-,-,7.75,-,0,0
+Afghanistan,Mohammad Nabi,127,123,1016.3,39,4372,132,4/30,33.12,4.30,46.2,3,0
+Afghanistan,Najibullah Zadran,70,2,5.0,0,30,0,-,-,6.00,-,0,0
+Afghanistan,Naveen-ul-Haq,7,7,61.3,1,356,14,4/42,25.42,5.78,26.3,1,0
+Afghanistan,Rahmat Shah,76,26,87.2,2,504,14,5/32,36.00,5.77,37.4,0,1
+Afghanistan,Rashid Khan,74,70,622.0,27,2601,140,7/18,18.57,4.18,26.6,5,4
+Afghanistan,Sayed Shirzad,2,1,8.0,0,56,1,1/56,56.00,7.00,48.0,0,0
+Afghanistan,Usman Ghani,15,2,6.2,0,34,1,1/21,34.00,5.36,38.0,0,0
+Afghanistan,Yamin Ahmadzai,4,4,26.4,3,139,2,1/23,69.50,5.21,80.0,0,0
+Afghanistan,Ihsanullah,16,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Javed Ahmadi,47,19,75.2,0,363,9,4/37,40.33,4.81,50.2,1,0
+Afghanistan,Mujeeb Ur Rahman,43,42,388.5,29,1543,70,5/50,22.04,3.96,33.3,2,1
+Afghanistan,Afsar Zazai,17,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Aftab Alam,27,27,209.3,14,1033,41,4/25,25.19,4.93,30.6,1,0
+Afghanistan,Azmatullah Omarzai,1,1,4.0,0,24,0,-,-,6.00,-,0,0
+Afghanistan,Dawlat Zadran,82,80,628.1,42,3423,115,4/22,29.76,5.44,32.7,3,0
+Afghanistan,Hamid Hassan,38,37,289.0,24,1330,59,5/45,22.54,4.60,29.3,2,1
+Afghanistan,Noor Ali Zadran,51,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Shafiqullah,24,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Sharafuddin Ashraf,17,17,127.2,3,559,13,3/29,43.00,4.39,58.7,0,0
+Afghanistan,Gulbadin Naib,68,63,384.4,11,2091,61,6/43,34.27,5.43,37.8,2,1
+Afghanistan,Hazratullah Zazai,16,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Karim Sadiq,24,12,53.2,3,201,6,2/10,33.50,3.76,53.3,0,0
+Afghanistan,Mohammad Shahzad,84,-,-,-,-,-,-,-,-,-,-,-
+Afghanistan,Rahmanullah Gurbaz,3,-,-,-,-,-,-,-,-,-,-,-
+Ireland,MR Adair,15,15,114.3,3,743,17,4/19,43.70,6.48,40.4,2,0
+Ireland,A Balbirnie,75,3,10.0,0,68,2,1/26,34.00,6.80,30.0,0,0
+Ireland,C Campher,8,7,42.3,3,245,8,2/31,30.62,5.76,31.8,0,0
+Ireland,PKD Chase,25,24,206.2,2,1356,34,3/33,39.88,6.57,36.4,0,0
+Ireland,GJ Delany,9,7,22.0,0,148,3,1/10,49.33,6.72,44.0,0,0
+Ireland,GH Dockrell,87,85,705.2,31,3327,89,4/24,37.38,4.71,47.5,4,0
+Ireland,EC Joyce,78,-,-,-,-,-,-,-,-,-,-,-
+Ireland,AR McBrine,53,51,432.5,22,1924,55,5/29,34.98,4.44,47.2,0,1
+Ireland,BJ McCarthy,35,35,287.0,10,1700,59,5/46,28.81,5.92,29.1,2,1
+Ireland,TJ Murtagh,58,57,503.2,45,2290,74,5/21,30.94,4.54,40.8,4,1
+Ireland,KJ O'Brien,152,116,716.0,30,3726,114,4/13,32.68,5.20,37.6,5,0
+Ireland,WTS Porterfield,139,-,-,-,-,-,-,-,-,-,-,-
+Ireland,SW Poynter,21,-,-,-,-,-,-,-,-,-,-,-
+Ireland,JNK Shannon,1,-,-,-,-,-,-,-,-,-,-,-
+Ireland,Simi Singh,24,21,169.1,11,661,28,5/10,23.60,3.90,36.2,0,1
+Ireland,HT Tector,8,1,8.0,0,52,1,1/52,52.00,6.50,48.0,0,0
+Ireland,GJ Thompson,3,3,12.0,0,73,1,1/35,73.00,6.08,72.0,0,0
+Ireland,LJ Tucker,16,-,-,-,-,-,-,-,-,-,-,-
+Ireland,GC Wilson,105,-,-,-,-,-,-,-,-,-,-,-
+Ireland,JA McCollum,10,-,-,-,-,-,-,-,-,-,-,-
+Ireland,NJ O'Brien,103,-,-,-,-,-,-,-,-,-,-,-
+Ireland,WB Rankin,75,73,617.0,42,2955,106,4/15,27.87,4.78,34.9,4,0
+Ireland,SR Thompson,20,16,93.1,1,490,12,2/17,40.83,5.25,46.5,0,0
+Ireland,J Anderson,8,2,5.0,0,20,0,-,-,4.00,-,0,0
+Ireland,J Cameron-Dow,4,4,31.0,0,151,5,3/32,30.20,4.87,37.2,0,0
+Ireland,JB Little,7,7,61.5,4,411,11,4/45,37.36,6.64,33.7,1,0
+Ireland,MC Sorensen,13,12,90.3,4,520,16,4/40,32.50,5.74,33.9,1,0
+Ireland,SP Terry,5,-,-,-,-,-,-,-,-,-,-,-
+Ireland,SC Getkate,3,3,27.0,2,120,6,2/30,20.00,4.44,27.0,0,0
+Ireland,AD Poynter,19,-,-,-,-,-,-,-,-,-,-,-
+Ireland,PR Stirling,125,75,402.5,8,1926,43,6/55,44.79,4.78,56.2,1,1
+Ireland,AR Cusack,59,52,325.3,24,1510,63,5/20,23.96,4.63,31.0,1,1
+Ireland,DT Johnston,67,63,488.2,46,2115,66,5/14,32.04,4.33,44.3,1,1
+Ireland,JF Mooney,64,50,299.3,19,1635,48,4/27,34.06,5.45,37.4,2,0
+Ireland,AR White,61,35,144.5,4,688,25,4/44,27.52,4.75,34.7,1,0
